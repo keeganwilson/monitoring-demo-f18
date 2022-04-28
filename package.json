@@ -2,6 +2,7 @@
   "name": "monitoring-demo",
   "version": "1.0.0",
   "description": "",
+  "proxy": "http://localhost:4545",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
